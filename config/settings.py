@@ -97,9 +97,9 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'umap_django_db',
-        'USER':'root',
-        'PASSWORD':'',
+        'NAME': 'Zero322$umap_django_db',
+        'USER':'Zero322',
+        'PASSWORD':'@qweqwe123',
         'HOST':'localhost',
         'PORT':'3306',
         
