@@ -99,7 +99,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Zero322$umap_django_db',
         'USER':'Zero322',
-        'PASSWORD':'@qweqwe123',
+        'PASSWORD':'',
         'HOST':'Zero322.mysql.pythonanywhere-services.com',
         'PORT':'3306',
         
