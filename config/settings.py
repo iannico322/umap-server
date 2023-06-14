@@ -100,7 +100,7 @@ DATABASES = {
         'NAME': 'Zero322$umap_django_db',
         'USER':'Zero322',
         'PASSWORD':'@qweqwe123',
-        'HOST':'localhost',
+        'HOST':'Zero322.mysql.pythonanywhere-services.com',
         'PORT':'3306',
         
         
@@ -149,7 +149,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR,'static')
 
 
